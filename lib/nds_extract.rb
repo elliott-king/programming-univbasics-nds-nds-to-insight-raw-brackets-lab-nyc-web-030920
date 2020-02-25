@@ -28,6 +28,7 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
-  pp result
+  puts 'result'
+  pp  result
   result
 end
